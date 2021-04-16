@@ -1,0 +1,8 @@
+# DxFarm
+https://bsc.dxchain.com.
+
+# Deployed Contracts
+* DxChain Token - 0xcA7bBEC6839965aC8dfe077b52EBB6519fFFe155
+* DxFarm - 0xd13583056b3c4F406FF6C8334E9cFAC4044164Db
+* DxVault - 0xc53cF089C03f68EE776db1858b258520115EAebE
+* DxSupplier - 0x48504b1159b358DAfc239D3f05524E4309b7B1C3

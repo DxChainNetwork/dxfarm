@@ -1,0 +1,10 @@
+.vscode
+.secret
+bin/
+build/
+node_modules/
+.DS_Store
+package-lock.json
+full/
+envs/.env.test
+envs/.env.production
